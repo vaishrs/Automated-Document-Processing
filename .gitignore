@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+Release-25.12.0-0/
+Release-25.12.0-0.zip

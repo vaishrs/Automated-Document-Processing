@@ -1,0 +1,7 @@
+streamlit
+pdf2image
+opencv-python
+paddlepaddle
+paddleocr
+pandas
+pillow
